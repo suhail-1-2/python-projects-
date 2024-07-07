@@ -1,0 +1,66 @@
+above is my resume, generate my a JSON format of the abovve cv 
+
+{
+  "Contact Information": {
+    "Name": "L Mohammad Suhail",
+    "Phone": "6304069012",
+    "Email": "suhaillmd5@gmail.com",
+    "LinkedIn": "www.linkedin.com/in/mohammad-suhail-l-081962262"
+  },
+  "Career Objective": "Seeking a position where I can utilize my skills and contribute to the best of my efforts to help the company grow and attain success. I want a role that helps me realize my potential by allowing me to explore different aspects of the industry.",
+  "Academia": [
+    {
+      "Degree": "B.Tech Computer Science Engineering",
+      "Institution": "SRMIST, Vadapalani",
+      "Duration": "June 2021 - May 2025"
+    },
+    {
+      "Degree": "12th grade",
+      "Institution": "Vignana Sudha jr. college",
+      "Location": "Chittoor, Andhra Pradesh",
+      "Percentage": "90%"
+    },
+    {
+      "Degree": "10th grade",
+      "Institution": "Narayana group of schools",
+      "Location": "Chittoor, Andhra Pradesh",
+      "Board": "CBSE",
+      "CGPA": "10"
+    }
+  ],
+  "Projects": [
+    {
+      "GitHub": "https://github.com/suhail-1-2/python-projects-"
+    }
+  ],
+  "Certifications": [
+    "Python for data science (NPTEL)",
+    "Problem solving with python (AUTO CADD ACADAMY)",
+    "Introduction to software engineering (COURSERA)",
+    "Python for data science and machine learning bootcamp (UDEMY)"
+  ],
+  "Technical Skills": [
+    "MS Excel",
+    "Power BI",
+    "SQL",
+    "Basics of Prompt Engineering",
+    "Programming: Python, C++",
+    "Python: NumPy, Pandas, Matplotlib, Seaborn, sklearn"
+  ],
+  "Hobbies": [
+    "Virtual Gaming",
+    "Fitness (weight lifting)",
+    "Learning new technology"
+  ],
+  "Key Strengths": [
+    "Resilience",
+    "Unflappable",
+    "Strong work ethics"
+  ],
+  "Languages Known": [
+    "Tamil",
+    "Telugu",
+    "English",
+    "Hindi"
+  ]
+}
